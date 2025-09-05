@@ -1,4 +1,4 @@
-# Decision Tree on Iris Dataset 🌸🌳
+# Decision Tree on Iris Dataset 
 # Project Overview
 
 This project demonstrates the use of a Decision Tree Classifier on the famous Iris dataset. The Iris dataset is a classic dataset in machine learning that consists of measurements of iris flowers from three different species:
